@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Shen1121
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++ and DeepLearning
+- 🌱 I’m currently learning DataMining and DeepLearning
 - 📫 Contact me :alex_shency@outlook.com
 
 <!---
