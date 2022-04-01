@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning DataMining and DeepLearning
 - 📫 Contact me :alex_shency@outlook.com
+- 👏 Welcome to my own blog: www.codingshen.com
 
 <!---
 Alex-Shen1121/Alex-Shen1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
