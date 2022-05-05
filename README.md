@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Shen1121&layout=compact&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) [![Shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Shen1121&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex-Shen1121)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alex_shency)](https://github.com/anuraghazra/github-readme-stats)
