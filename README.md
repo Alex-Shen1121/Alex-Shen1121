@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Alex-Shen1121
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning DataMining and DeepLearning
+- 👋 Hi, I’m @Alex-ShenCY
+- 👀 I’m interested in Computer Science, especially Java, Go and data mining.
+- 🌱 I had my bachelar degree in ShenZhen University, and I’m now having a master degree in CUHK.
 - 📫 Contact me :alex_shency@outlook.com
-- 👏 Welcome to my own blog: www.codingshen.com
