@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-ShenCY
 - 👀 I’m interested in Computer Science, especially Java, Go and data mining.
-- 🌱 I had my bachelar degree in ShenZhen University, and I’m now having a master degree in CUHK.
+- 🌱 I had my bachelar degree in ShenZhen University, and master degree in CUHK.
 - 📁 I'm now working as an backend program intern in Meituan.
 - 📫 Contact me :alex_shency@outlook.com
 
